@@ -9,6 +9,7 @@ public class IssueController {
     //todo: get all issues
     //todo: get issues by status
     //todo: get specific issue
+    //todo: get specific issue history
     //todo: post issue
     //todo: update issue
     //todo: delete issue
